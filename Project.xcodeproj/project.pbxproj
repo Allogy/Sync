@@ -1151,7 +1151,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1425D59A1CC65BEB00EC49D4 /* Source */ = {
+		1425D59A1CC65BEB00EC49D4 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				445D3BB71D9F932C007F9E26 /* DataFilter */,
@@ -1164,7 +1164,7 @@
 				14E93C431DBCCD2800E3304E /* Sync.h */,
 				449828021D9F8F2D00E2BCA3 /* TestCheck */,
 			);
-			path = Source;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		1467388A1E7ADBA700913C8E /* DataStack */ = {
@@ -1178,7 +1178,7 @@
 		146D728A1AB782920058798C = {
 			isa = PBXGroup;
 			children = (
-				1425D59A1CC65BEB00EC49D4 /* Source */,
+				1425D59A1CC65BEB00EC49D4 /* Sources */,
 				14C136501AB7849300B7B07A /* Metadata */,
 				146D72AF1AB782920058798C /* Tests */,
 				146D72941AB782920058798C /* Products */,
